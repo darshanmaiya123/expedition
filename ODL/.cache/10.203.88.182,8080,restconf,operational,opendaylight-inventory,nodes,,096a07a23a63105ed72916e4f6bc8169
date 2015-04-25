@@ -1,0 +1,9 @@
+status: 200
+content-location: http://10.203.88.182:8080/restconf/operational/opendaylight-inventory:nodes/
+expires: Wed, 31 Dec 1969 17:00:00 MST
+server: Apache-Coyote/1.1
+cache-control: private
+date: Thu, 23 Apr 2015 17:11:34 GMT
+content-type: application/yang.data+json
+
+{"nodes":{}}

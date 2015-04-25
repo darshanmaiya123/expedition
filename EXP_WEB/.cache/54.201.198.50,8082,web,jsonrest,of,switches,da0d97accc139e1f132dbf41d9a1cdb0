@@ -1,0 +1,12 @@
+status: 200
+content-length: 248
+access-control-allow-methods: PUT, GET, POST, DELETE, OPTIONS
+content-location: http://54.201.198.50:8082/web/jsonrest/of/switches
+server: WSGIServer/0.1 Python/2.7.6
+date: Fri, 24 Apr 2015 04:26:00 GMT
+access-control-allow-origin: *
+access-control-allow-headers: Origin, Accept, Content-Type, X-Requested-With,
+	X-CSRF-Token
+content-type: text/html; charset=UTF-8
+
+[{"remotePort": 38664, "connectedSince": 1429844875022.5178, "remoteIp": "192.168.56.2", "dpid": "00:00:00:00:00:00:00:01"}, {"remotePort": 38665, "connectedSince": 1429844875040.8918, "remoteIp": "192.168.56.2", "dpid": "00:00:00:00:00:00:00:02"}]

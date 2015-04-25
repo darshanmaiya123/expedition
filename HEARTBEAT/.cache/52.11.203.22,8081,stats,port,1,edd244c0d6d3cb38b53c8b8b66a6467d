@@ -1,0 +1,7 @@
+status: 200
+date: Fri, 24 Apr 2015 04:31:17 GMT
+content-length: 1350
+content-type: application/json; charset=UTF-8
+content-location: http://52.11.203.22:8081/stats/port/1
+
+{"1": [{"tx_dropped": 0, "rx_packets": 5, "rx_crc_err": 0, "tx_bytes": 1580, "rx_dropped": 0, "port_no": 3, "rx_over_err": 0, "rx_frame_err": 0, "rx_bytes": 390, "tx_errors": 0, "collisions": 0, "rx_errors": 0, "tx_packets": 22}, {"tx_dropped": 1, "rx_packets": 2, "rx_crc_err": 0, "tx_bytes": 1580, "rx_dropped": 0, "port_no": 1, "rx_over_err": 0, "rx_frame_err": 0, "rx_bytes": 140, "tx_errors": 0, "collisions": 0, "rx_errors": 0, "tx_packets": 22}, {"tx_dropped": 0, "rx_packets": 14, "rx_crc_err": 0, "tx_bytes": 790, "rx_dropped": 0, "port_no": 5, "rx_over_err": 0, "rx_frame_err": 0, "rx_bytes": 1020, "tx_errors": 0, "collisions": 0, "rx_errors": 0, "tx_packets": 11}, {"tx_dropped": 2, "rx_packets": 5, "rx_crc_err": 0, "tx_bytes": 1580, "rx_dropped": 0, "port_no": 4, "rx_over_err": 0, "rx_frame_err": 0, "rx_bytes": 390, "tx_errors": 0, "collisions": 0, "rx_errors": 0, "tx_packets": 22}, {"tx_dropped": 0, "rx_packets": 3, "rx_crc_err": 0, "tx_bytes": 1580, "rx_dropped": 0, "port_no": 2, "rx_over_err": 0, "rx_frame_err": 0, "rx_bytes": 230, "tx_errors": 0, "collisions": 0, "rx_errors": 0, "tx_packets": 22}, {"tx_dropped": 0, "rx_packets": 8, "rx_crc_err": 0, "tx_bytes": 1490, "rx_dropped": 0, "port_no": 65534, "rx_over_err": 0, "rx_frame_err": 0, "rx_bytes": 648, "tx_errors": 0, "collisions": 0, "rx_errors": 0, "tx_packets": 21}]}
